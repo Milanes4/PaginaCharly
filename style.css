@@ -27,7 +27,7 @@ nav ul li {
 }
 
 nav ul li a {
-    color: white;
+    color: #EDF1E4;
     text-decoration: none;
 }
 
@@ -35,6 +35,7 @@ main {
     padding: 20px;
     text-align: center;
     flex: 1; 
+    
 }
 
 footer {
